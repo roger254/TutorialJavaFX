@@ -1,0 +1,12 @@
+* {
+    -fx-spacing: 10px;
+    -fx-fill-width: true;
+}
+
+.myFlowPane{
+    -fx-alignment: center;
+}
+
+#myFlowPane {
+    -fx-alignment: top;
+}
